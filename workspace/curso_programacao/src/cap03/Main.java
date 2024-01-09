@@ -1,4 +1,4 @@
-package curso_programacao;
+package cap03;
 
 public class Main {
 
