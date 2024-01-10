@@ -38,6 +38,8 @@ public class funcoes_matematicas {
 		raiz2 = (-b - Math.sqrt(delta)) / (2.0 * a);
 
 		System.out.printf("Delta: %f - Raiz 1: %f - Raiz 2: %f %n", delta, raiz1, raiz2);
+		
+		sc.close();
 	}
 
 }

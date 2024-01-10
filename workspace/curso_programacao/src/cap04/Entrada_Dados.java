@@ -2,8 +2,6 @@ package cap04;
 
 import java.util.Scanner;
 
-import javax.swing.plaf.synth.SynthToggleButtonUI;
-
 public class Entrada_Dados {
 
 	public static void main(String[] args) {
