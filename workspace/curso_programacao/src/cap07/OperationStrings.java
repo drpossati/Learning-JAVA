@@ -1,7 +1,5 @@
 package cap07;
 
-import java.util.Iterator;
-
 public class OperationStrings {
 	
 	/*
