@@ -25,6 +25,8 @@ public class AreaCirclesMain {
 		System.out.printf("\nÁrea da Esfera: %.2f cm^2 %n", AreaCalculator.areaSphere(radius));
 
 		System.out.printf("\nVolume da Esfera: %.2f cm^3 %n", AreaCalculator.volumeSphere(radius));
+		
+		sc.close();
 
 	}
 
