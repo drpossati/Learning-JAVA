@@ -48,7 +48,8 @@ public class Main {
 		System.out.print("\nRealizar Saque\nDigite o valor para retirar: ");
 		criarConta.saque(sc.nextDouble());
 
-		System.out.println(criarConta.toString());
+		// O método toString não precisa ser chamado
+		System.out.println(criarConta);
 
 		sc.close();
 
